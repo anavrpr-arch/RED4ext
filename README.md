@@ -32,3 +32,4 @@ Instructions about how to build RED4ext can be found in [BUILDING.md](/BUILDING.
 Do you want to contribute? Community feedback and contributions are highly appreciated!
 
 **For general rules and guidelines see [CONTRIBUTING.md](/CONTRIBUTING.md).**
+
