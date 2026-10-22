@@ -237,3 +237,4 @@ bool App::AttachHooks() const
 
     return false;
 }
+
